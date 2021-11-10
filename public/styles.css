@@ -1,7 +1,14 @@
 h1 {
 	font-family: 'Alegreya' ;
 }
-
+#lorem{
+	margin: auto;
+	text-align: center;
+}
+#ipsum{
+	margin: auto;
+	text-align: center;
+}
 body {
 	font-family: 'Source Sans Pro' ;
 	width: 50%;
