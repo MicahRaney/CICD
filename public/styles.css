@@ -4,14 +4,19 @@ h1 {
 #lorem{
 	margin: auto;
 	text-align: left;
+	background-color: rgb(0, 0, 0,.4);
+	padding-left:5px;
 }
 #ipsum{
 	margin: auto;
 	text-align: center;
+	background-color: rgb(0, 0, 0,.4);
+
 }
 body {
   font-family: "Source Sans Pro";
   color:white;
+  text-shadow: 1px 1px black;
   width: 50%;
   margin-left: 25%;
   text-align: justify;
