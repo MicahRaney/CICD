@@ -30,5 +30,5 @@ $("#generate").click(function(){
 $("#copy").click(function(){
 	var lorem = $("#lorem");
 	console.log("Copying Text");
-	navigator.clipboard.writeText(lorem.html())
+	navigator.clipboard.writeText(lorem.text());
 })
