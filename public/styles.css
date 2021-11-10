@@ -1,5 +1,5 @@
 h1 {
-	font-family: 'Alegreya' ;
+  font-family: "Alegreya";
 }
 #lorem{
 	margin: auto;
@@ -10,28 +10,28 @@ h1 {
 	text-align: center;
 }
 body {
-	font-family: 'Source Sans Pro' ;
-	width: 50%;
-	margin-left: 25%;
-	text-align: justify;
-	line-height: 1.7;
-	font-size: 18px;
+  font-family: "Source Sans Pro";
+  width: 50%;
+  margin-left: 25%;
+  text-align: justify;
+  line-height: 1.7;
+  font-size: 18px;
 }
 
 input {
-	font-size: 18px;
-	text-align: center;
+  font-size: 18px;
+  text-align: center;
 }
 
 button {
-	font-size: 18px;
-	color: #fff;
+  font-size: 18px;
+  color: #fff;
 }
 
 #generate {
-	background-color: #09f;
+  background-color: rgb(3, 53, 15);
 }
 
 #copy {
-	background-color: #0c6;
+  background-color: rgb(3, 53, 15);
 }
